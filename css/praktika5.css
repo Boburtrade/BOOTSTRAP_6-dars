@@ -1,0 +1,51 @@
+.card-header{
+    background: linear-gradient(90deg, violet, blueviolet);
+    text-align: center;
+}
+.box{
+    background-color: #e1f8f8;
+}
+.box1{
+    margin: 0 15px;
+}
+h5{
+    background: linear-gradient(90deg, violet, blueviolet);
+    text-align: center;
+    border-radius: 20px;
+}
+.box3{
+    background: linear-gradient(90deg, royalblue, deepskyblue);
+    text-align: center;
+}
+.h5b{
+    background: linear-gradient(90deg, royalblue, deepskyblue);
+    text-align: center;
+}
+.box4{
+    background: linear-gradient(90deg, orange, orangered);
+    text-align: center;
+    overflow: hidden;
+}
+.h5bb{
+    background: linear-gradient(90deg, orange, orangered);
+    text-align: center;
+}
+.box44{
+    background: linear-gradient(90deg, mediumslateblue, cornflowerblue);
+    text-align: center;
+}
+.h5bbb{
+    background: linear-gradient(90deg, mediumslateblue, cornflowerblue);
+    text-align: center;
+}
+.boxes{
+    width: 150px;
+    height: 35px;
+    background-color: white;
+    color: green;
+    font-size: 18px;
+    transform: rotateZ(45deg);
+    line-height: 35px;
+    top: 20px;
+    right: -40px;
+}
